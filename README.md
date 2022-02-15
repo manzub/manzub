@@ -2,7 +2,14 @@
 
 <h3 align="center"> Hey there, I'm  WizzDom 👋 </h3>
 
-<p align="center">I love building awesome stuff ✌️</p>
+
+<p>Frontend Developer (Vue JS, React JS, Bootstrap)</p>
+<p>Backend Developer (Node JS, PHP, Python (Flask)</p>
+<p>Full Stack Developer (MERN, LAMP & Flask)</p>
+<p>Smart Contract Developer (Solidity)</p>
+<p>Flutter Developer</p>
+
+<p align="center">Tech Enthusiast, I love building awesome stuff ✌️</p>
 
 ### <h2 style="font-family: monospace">Languages/Tools  🚀</h2>
 ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)

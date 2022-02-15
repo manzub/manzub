@@ -1,15 +1,8 @@
 ![](https://github.com/manzub/manzub/blob/90dc4fbac21e34db74a468176cf7cca273fd4300/assets/header-bg.svg?raw=true)
 
 <h3 align="center"> Hey there, I'm  WizzDom 👋 </h3>
-
-
-<p>Frontend Developer (Vue JS, React JS, Bootstrap)</p>
-<p>Backend Developer (Node JS, PHP, Python (Flask)</p>
-<p>Full Stack Developer (MERN, LAMP & Flask)</p>
-<p>Smart Contract Developer (Solidity)</p>
-<p>Flutter Developer</p>
-
 <p align="center">Tech Enthusiast, I love building awesome stuff ✌️</p>
+
 
 ### <h2 style="font-family: monospace">Languages/Tools  🚀</h2>
 ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -35,6 +28,15 @@
 ![](https://img.shields.io/badge/Vercel-000?style=for-the-badge&logo=vercel&logoColor=white)
 ![](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 ![](https://img.shields.io/badge/DigitalOcean-0467fe?style=for-the-badge&logo=digitalocean&logoColor=white)
+<br/>
+<br/>
+
+### <h2 style="font-family: monospace">Skills</h2>
+- <span><strong>Frontend Developer</strong> (Vue JS, React JS, Bootstrap)</span>
+- <span>Backend Developer (Node JS, PHP, Python (Flask)</span>
+- <span>Full Stack Developer (MERN, LAMP & Flask)</span>
+- <span>Smart Contract Developer (Solidity)</span>
+- <span>Flutter Developer</span>
 
 ### <h2 style="font-family: monospace">Some Hobbies 😎</h2>
 - <span style="font-family: monospace">Pencil Drawings</span>

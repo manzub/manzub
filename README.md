@@ -1,7 +1,8 @@
 ![](https://github.com/manzub/manzub/blob/90dc4fbac21e34db74a468176cf7cca273fd4300/assets/header-bg.svg?raw=true)
 
-<h3 align="center"> Hey there, I'm  WizzDom 👋 </h3>
+<h1 align="center"> Hey there, I'm  WizzDom 👋 </h1>
 <p align="center">Tech Enthusiast, I love building awesome stuff ✌️</p>
+<p align="center">A little bit of everything</p>
 
 
 ### <h2 style="font-family: monospace">Languages/Tools  🚀</h2>
@@ -32,12 +33,12 @@
 <br/>
 
 ### <h2 style="font-family: monospace">Skills</h2>
-- <span><strong>Frontend Developer</strong> (Vue JS, React JS, Bootstrap)</span>
-- <span>Backend Developer (Node JS, PHP, Python (Flask)</span>
-- <span>Full Stack Developer (MERN, LAMP & Flask)</span>
-- <span>Smart Contract Developer (Solidity)</span>
-- <span>Flutter Developer</span>
+- <span><strong>Frontend Developer</strong> (Vue JS, React JS, Bootstrap)</strong></span>
+- <span><strong>Backend Developer (Node JS, PHP, Python (Flask)</strong></span>
+- <span><strong>Full Stack Developer (MERN, LAMP & Flask)</strong></span>
+- <span><strong>Smart Contract Developer (Solidity)</strong></span>
+- <span><strong>Flutter Developer</strong></span>
 
 ### <h2 style="font-family: monospace">Some Hobbies 😎</h2>
 - <span style="font-family: monospace">Pencil Drawings</span>
-- <span style="font-family: monospace">Researching Tech Stuff</span>
+- <span style="font-family: monospace">Researchign & Learning Tech Stuff</span>

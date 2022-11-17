@@ -37,7 +37,7 @@
 - <span><strong>Backend Developer (Node JS, PHP, Python (Flask)</strong></span>
 - <span><strong>Full Stack Developer (MERN, LAMP & Flask)</strong></span>
 - <span><strong>Smart Contract Developer (Solidity)</strong></span>
-- <span><strong>Flutter Developer</strong></span>
+- <span><strong>Blockchain Developer</strong></span>
 
 ### <h2 style="font-family: monospace">Some Hobbies 😎</h2>
 - <span style="font-family: monospace">Pencil Drawings</span>

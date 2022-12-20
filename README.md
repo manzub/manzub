@@ -1,4 +1,3 @@
-![](https://github.com/manzub/manzub/blob/90dc4fbac21e34db74a468176cf7cca273fd4300/assets/header-bg.svg?raw=true)
 
 <h1 align="center"> Hey there, I'm  WizzDom 👋 </h1>
 <p align="center">Tech Enthusiast, I love building awesome stuff ✌️</p>

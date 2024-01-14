@@ -1,43 +1,42 @@
+![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 
-<h1 align="center"> Hey there, I'm  WizzDom 👋 </h1>
-<p align="center">Tech Enthusiast, I love building awesome stuff ✌️</p>
-<p align="center">A little bit of everything</p>
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="30px" />, I'm Wisdom Okon</h1>
+<h3 align="center">Self-Taught Developer. Tech Enthusiast</h3>
 
+<a href="https://github.com/truethari"><img src="https://komarev.com/ghpvc/?username=manzub&style=flat-square&color=blue" alt=""/></a>
 
-### <h2 style="font-family: monospace">Languages/Tools  🚀</h2>
-![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![](https://img.shields.io/badge/MySQL-005e86?style=for-the-badge&logo=mysql&logoColor=white)
-![](https://img.shields.io/badge/-PHP-blue?style=for-the-badge&logo=php&logoColor=white)
-![](https://img.shields.io/badge/-Solidity-yellowgreen?style=for-the-badge&logo=solidity&logoColor=white)
+## 🚀 About Me
 
+🤷🏻‍♂️ I'm Wisdom O., a self learning **Programmer** (specializing in **JavaScript**, **ReactJS**, **ExpressJS** & **NodeJS** Applications) and a **Freelancer**.
 
-### <h2 style="font-family: monospace">Frameworks ⚙️</h2> 
-![](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
-![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![](https://img.shields.io/badge/Vue.js-41b883?style=for-the-badge&logo=vuedotjs&logoColor=white)
-![](https://img.shields.io/badge/-IONIC-9cf?style=for-the-badge&logo=ionic&logoColor=white)
-![](https://img.shields.io/badge/-flutter-blueviolet?style=for-the-badge&logo=flutter&logoColor=white)
+## 🛠️ Skilled in
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manzub&layout=compact)](https://github.com/manzub/github-readme-stats)
+![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![typescript](https://img.shields.io/badge/TypeScript-323330?style=for-the-badge&logo=typescript&logoColor=61DAFB)
+![python](https://img.shields.io/badge/Python-323330?style=for-the-badge&logo=python&logoColor=F7DF1E)
+![html](https://img.shields.io/badge/HTML-323330?style=for-the-badge&logo=HTML5&logoColor=E34F26)
 
-### <h2 style="font-family: monospace">CI/CD ☁️</h2>
-![](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-![](https://img.shields.io/badge/Vercel-000?style=for-the-badge&logo=vercel&logoColor=white)
-![](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
-![](https://img.shields.io/badge/DigitalOcean-0467fe?style=for-the-badge&logo=digitalocean&logoColor=white)
-<br/>
-<br/>
+### Front-End Development
 
-### <h2 style="font-family: monospace">Skills</h2>
-- <span><strong>Frontend Developer</strong> (Vue JS, React JS, Bootstrap)</strong></span>
-- <span><strong>Backend Developer (Node JS, PHP, Python (Flask)</strong></span>
-- <span><strong>Full Stack Developer (MERN, LAMP & Flask)</strong></span>
-- <span><strong>Smart Contract Developer (Solidity)</strong></span>
-- <span><strong>Blockchain Developer</strong></span>
+![react](https://img.shields.io/badge/React_Js-339933?style=for-the-badge&logo=react&logoColor=61DAFB)
+![react-router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
+![tailwind-css](https://img.shields.io/badge/Tailwind_CSS-0081CB?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+### Back-End Development
+
+![nodejs](https://img.shields.io/badge/Node_Js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![expressjs](https://img.shields.io/badge/Express_Js-CA4245?style=for-the-badge&logo=express&logoColor=white)
+![firebase](https://img.shields.io/badge/Firebase-ffaa00?style=for-the-badge&logo=Firebase&logoColor=white)
+![mongodb](https://img.shields.io/badge/Mongodb-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![sql](https://img.shields.io/badge/MySql-205375?style=for-the-badge&logo=mysql&logoColor=white)
+![netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![serverless](https://img.shields.io/badge/Serverless-FD5750?style=for-the-badge&logo=serverless&logoColor=white)
 
 ### <h2 style="font-family: monospace">Some Hobbies 😎</h2>
 - <span style="font-family: monospace">Pencil Drawings</span>
-- <span style="font-family: monospace">Researchign & Learning Tech Stuff</span>
+- <span style="font-family: monospace">Researching & Learning Tech Stuff</span>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=manzub&show_icons=true&theme=highcontrast&locale=en&layout=compact" alt="truethari" />

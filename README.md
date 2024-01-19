@@ -3,7 +3,7 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="30px" />, I'm Wisdom Okon</h1>
 <h3 align="center">Self-Taught Developer. Tech Enthusiast</h3>
 
-<a href="https://github.com/truethari"><img src="https://komarev.com/ghpvc/?username=manzub&style=flat-square&color=blue" alt=""/></a>
+<a href="https://github.com/manzub"><img src="https://komarev.com/ghpvc/?username=manzub&style=flat-square&color=blue" alt=""/></a>
 
 ## 🚀 About Me
 

@@ -37,6 +37,7 @@
 
 ### <h2 style="font-family: monospace">Some Hobbies 😎</h2>
 - <span style="font-family: monospace">Pencil Drawings</span>
-- <span style="font-family: monospace">Researching & Learning Tech Stuff</span>
+- <span style="font-family: monospace">Writing Tedx Talks.</span>
+- <span style="font-family: monospace">Researching & Learning Tech</span>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=manzub&show_icons=true&theme=highcontrast&locale=en&layout=compact" alt="truethari" />

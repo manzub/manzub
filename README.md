@@ -7,7 +7,7 @@
 
 ## 🚀 About Me
 
-🤷🏻‍♂️ I'm Wisdom O., a self learning **Programmer** (specializing in **JavaScript**, **ReactJS**, **ExpressJS** & **NodeJS** Applications) and a **Freelancer**.
+🤷🏻‍♂️ I'm Wisdom O., a self learning **Programmer** (specializing in **JavaScript**, **ReactJS**, **TypeScript** & **Python** Applications) and a **Freelancer**.
 
 ## 🛠️ Skilled in
 
